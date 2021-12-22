@@ -1,7 +1,8 @@
+sudo apt install libgtk2.0-dev pkg-config cmake pkg-config libhdf5-dev libgtk2.0-dev
+
+sudo apt-get install build-essential tk-dev libncurses5-dev libncursesw5-dev libreadline6-dev libdb5.3-dev libgdbm-dev libsqlite3-dev libssl-dev libbz2-dev libexpat1-dev liblzma-dev zlib1g-dev libffi-dev -y
+
 sudo pip3 install opencv-python 
-sudo pip3 install gdown
-gdown https://drive.google.com/uc?id=1BLXP7RKEfTp9fxbmI8Qu2FdhU7NUxcwV
-sudo -H pip3 install tensorflow-2.6.0-cp37-cp37m-linux_armv7l.whl wrapt --upgrade --ignore-installed
 sudo pip3 install --upgrade numpy
 sudo pip3 install cvlib
 sudo pip3 install keras
