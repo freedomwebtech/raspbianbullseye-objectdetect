@@ -8,6 +8,6 @@ sudo apt install libgtk2.0-dev libgtk-3-dev -y
 sudo apt install libtlas-base-dev gfortran -y
 sudo apt install libhdf5-dev libhdf5-serial-dev libhdf5-103 -y
 sudo apt install python3-pyqt5 -y
-sudo apt install -y libatlas-base-dev libhdf5-dev libhdf5-serial-dev -y
+sudo apt install -y  libhdf5-dev libhdf5-serial-dev -y
 
 
